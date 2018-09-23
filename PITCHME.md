@@ -1,19 +1,9 @@
-### Hello!
-this is sample slides
----
-
 # Ruby
-## Ruby
-### Ruby
-#### Ruby
 
-- どう記載するのか
-``` ruby
+## Ruby文法
+- 拡張子は.rb
 
-def info
- puts "Markdown方式とは"
-end
 
-info
-```
+
+
 
