@@ -2,4 +2,18 @@
 this is sample slides
 ---
 
-### Page 2
+# Ruby
+## Ruby
+### Ruby
+#### Ruby
+
+- どう記載するのか
+``` ruby
+
+def info
+ puts "Markdown方式とは"
+end
+
+info
+```
+
