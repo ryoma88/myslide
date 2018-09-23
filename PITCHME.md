@@ -29,7 +29,7 @@ HTMLで書くと、ブラウザが正しく読み込んでくれる
 Codepenというサービスで結果を確認できる
 ただし、Codepenはbody要素のみ記載できる（したがってhead要素は記載できない）
 
-## 4.CSS　とは　
+## 4.CSS とは　
 
 CSSとは、Cascading Style Sheets（カスケーディングスタイルシート）の略でWebページをデザインするもの
 
