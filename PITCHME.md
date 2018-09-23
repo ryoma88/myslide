@@ -1,10 +1,10 @@
 # HTML
 
-## 1 HTML とは
+## 1.HTML とは
 
 HTMLとはHyper Text Markup Languageの略
 
-## 2 通常の文書等の違い
+## 2.通常の文書等の違い
 
 通常のメモは
 
